@@ -20,7 +20,7 @@ social-email: patrycjusz.blaszczuk@gmail.com # add your Email address
 discus-identifier: solidogen # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+google-analytics: UA-201254994-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown

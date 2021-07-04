@@ -1,6 +1,6 @@
 <section class="comment-area">
   <div class="comment-wrapper">
-    {% if site.discus-identifier %}
+    {% if site.discus-identifier and jekyll.environment == "production" %}
     <div id="disqus_thread" class="article-comments"></div>
     <script>
       (function() {
