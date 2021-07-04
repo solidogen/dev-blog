@@ -39,6 +39,6 @@ Alternatively, on older IntelliJ versions it may look like this:
 
 When a change is detected, Gradle will deploy the updated site. To force a reload, press `Ctrl/Cmd+S` to save the file.
 
-[For more information on the continuous compilation visit JetBrains site](https://kotlinlang.org/docs/dev-server-continuous-compilation.html)
+[For more information on the continuous compilation visit JetBrains site.](https://kotlinlang.org/docs/dev-server-continuous-compilation.html)
 
 ---
