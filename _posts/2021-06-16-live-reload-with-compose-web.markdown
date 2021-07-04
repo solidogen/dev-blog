@@ -15,9 +15,15 @@ The trick is to add `--continuous` argument to the gradle task which runs the ap
 
 ### In terminal:
 
-`./gradlew jsBrowserDevelopmentRun --continuous` (if your project is a single module)
+If your project is a single module:
+{% highlight shell %}
+./gradlew jsBrowserDevelopmentRun --continuous
+{% endhighlight %} 
 
-`./gradlew :modulename:jsBrowserDevelopmentRun --continuous` (for multimodule projects)
+For multi-module projects:
+{% highlight shell %}
+./gradlew :modulename:jsBrowserDevelopmentRun --continuous
+{% endhighlight %}
 
 ### In IntelliJ:
 
