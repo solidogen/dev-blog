@@ -3,7 +3,7 @@ layout: post
 title: Live reload with Compose Web - see your progress instantly
 date: 2021-06-16 00:46:37
 description: Compose Web can already make your progress visible at the moment of writing
-img: 2021-06-16-live-reload-with-compose-web/old-intellij.png
+img: 2021-06-16-live-reload-with-compose-web/jetpack-compose.png
 tags: [compose, compose-web]
 ---
 
