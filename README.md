@@ -1,5 +1,7 @@
 # Dev blog by Patrycjusz Blaszczuk
 
+[https://blaszcz.uk](https://blaszcz.uk)
+
 Blog theme - Flexible-Jekyll: https://github.com/artemsheludko/flexible-jekyll
 
 ### License
